@@ -1,0 +1,12 @@
+Package: com.pixelomer.werycooltweak
+Name: BuggyTube
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Makes YouTube greet you with the stick bug
+  Makes YouTube greet you with the stick bug and makes it impossible to open YouTube links using YouTube.
+	.
+	Should support every version that is supported by the App Store version of YouTube.
+Maintainer: pixelomer
+Author: pixelomer
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
